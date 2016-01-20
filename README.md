@@ -1,4 +1,4 @@
-Kanboard
+Kanboard - Item File
 ========
 
 [![Build Status](https://travis-ci.org/fguillot/kanboard.svg)](https://travis-ci.org/fguillot/kanboard)
